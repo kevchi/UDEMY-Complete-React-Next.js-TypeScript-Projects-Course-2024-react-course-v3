@@ -1,6 +1,6 @@
 # React Fundamentals
 
-## Remindders:
+## Reminders:
 
 - Remember to install npm (npm install) in every folder.
 

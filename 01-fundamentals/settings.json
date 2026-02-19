@@ -1,0 +1,26 @@
+{
+"highlight-matching-tag.styles": {
+    "opening": {
+      "left": {
+        "custom": {
+          "borderWidth": "0 0 0 3px",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px"
+        }
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "0 0 0 3px",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px"
+        }
+      }
+    }
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+
+}

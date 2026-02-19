@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom/client'; // Not required but recommended
 
 import './index.css';
 import { books } from './books';
-import Book from './book';
+import Book from './Book';
 
 //
 
@@ -30,7 +30,7 @@ function BookList() {
 }
 
 /*
-Then, in the book.js file, we would need to:
+Then, in the book.jsx file, we would need to:
 1. We receive the index through the number prop
 2. Destructure number along with other props
 3. Display the number using a span tag
